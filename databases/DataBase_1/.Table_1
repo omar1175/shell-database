@@ -1,0 +1,4 @@
+Column_Name|Column_Type|Primary_Key|Not_Null|Unique
+id|int|yes|yes|yes
+name|string|no|yes|yes
+isMarried|boolean|no|no|no
