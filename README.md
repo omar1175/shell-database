@@ -10,4 +10,4 @@ A simple command-line database management system built using Bash scripting.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omar1175/shell-database.git
+   git clone https://github.com/omar1175/shell-database
